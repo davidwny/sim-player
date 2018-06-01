@@ -1,2 +1,2 @@
-# sim-player
-Vet School Simulation Player
+# sim-ii
+Simulator Instructor Interface
